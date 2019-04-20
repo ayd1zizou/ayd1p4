@@ -33,7 +33,7 @@ public class Login extends Utilidad{
 		// TODO Auto-generated method stub
 		super.doAfterCompose(comp);
 		limpia_msj();
-		System.out.println("ingresa  login");
+		System.out.println("ingresa login");
 	}
 	
 	private void limpia_msj(){
